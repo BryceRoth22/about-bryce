@@ -1,3 +1,13 @@
-selector {
-    background: indianred;
+p {
+    font-family: fantasy;
+    font-size: larger;
+    color: darkblue;
 }
+
+h1{
+    font-family: fantasy;
+    font-size: xxx-large;
+    color: darkblue;
+    border-bottom-style: double;
+}
+
